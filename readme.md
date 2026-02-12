@@ -1,4 +1,4 @@
-<h2 align="left">This is Sandhya Baral, a computer engineer and a learner. </h2>
+<h2 align="left"> 💻 This is Sandhya Baral, a computer engineer and a learner. </h2>
 
 ---
 

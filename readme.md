@@ -33,7 +33,7 @@
 
 
 #### 🌐 Development
-- PYTHON
+- PYTHON, PYTORCH
 - HTML5 / CSS3
 - REST APIs
 

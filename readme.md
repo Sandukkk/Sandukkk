@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://substackcdn.com/image/fetch/$s_!leeh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa428cb4f-2bd0-42a0-a4cb-c27fce25af89_1920x1080.jpeg" width="100%" />
+<img src="https://substackcdn.com/image/fetch/$s_!leeh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa428cb4f-2bd0-42a0-a4cb-c27fce25af89_1920x1080.jpeg" width="50%" />
 
 ---
 

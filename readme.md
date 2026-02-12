@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Er. Sandhya Baral — Machine Learning Engineer | Fraud Detection & AI Research</h2>
+<h2 align="left">This is Sandhya Baral, a computer engineer and a learner. </h2>
 
 ---
 
@@ -12,6 +12,7 @@
 - 🧠 Specializing in **Computer Vision, AML Monitoring & Time-series Modeling**
 - 🔬 Research Interest in **3D Vision, Medical Imaging, Multi Modal Learning**
 - 🧪 Experience with CNNs, RNNs, LSTMs, Autoencoders & Ensemble Models
+  
 ---
 
 ### 📈 GitHub Stats

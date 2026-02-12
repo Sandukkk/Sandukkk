@@ -27,9 +27,7 @@
 ### 🛠 Tech Stack
 
 #### 💡 Machine Learning & AI
-- PyTorch
-- Computer Vision
-- Pattern recognition, Object Detection 
+- Computer Vision, Pattern recognition, Object Detection 
 - Time-Series Modeling (LSTM / Sequential Patterns)
 - Outlier/Anomaly detection (Autoencoder / Decision Trees / Booting)
 
@@ -43,10 +41,10 @@
 
 ### 🔍 Featured Work
 
-- 🏦 **AML Alert Monitoring** –
+- 🏦 **AML Alert Monitoring**
+- 💵 **Cheque Monitoring System**
+- 🎨 **Image Inpainting with c-GAN**
 - 🚗 **Nepali License Plate Recognition**
-- 🧠 **Brain Tumor Segmentation (3D U-Net, BraTS2020)**  
-- 📊 **Image Classification (VGG19, ResNet152)**  
 - ✍️ **Devanagari Handwriting Dataset Creation and Benchmarking with Tranfer Learning**
 
 ---

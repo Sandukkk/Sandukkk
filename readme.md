@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://chatgpt.com/c/6991b1d0-de18-8322-b7c8-314b6cdbe485" width="50%" />
+<img src="picture.png" width="50%" />
 
 ---
 

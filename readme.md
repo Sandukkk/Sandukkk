@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://substackcdn.com/image/fetch/$s_!leeh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa428cb4f-2bd0-42a0-a4cb-c27fce25af89_1920x1080.jpeg" width="50%" />
+<img src="https://chatgpt.com/c/6991b1d0-de18-8322-b7c8-314b6cdbe485" width="50%" />
 
 ---
 
@@ -13,15 +13,6 @@
 - 🔬 Research Interest in **3D Vision, Medical Imaging, Multi Modal Learning**
 - 🧪 Experience with CNNs, RNNs, LSTMs, Autoencoders & Ensemble Models
   
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandukkk&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandukkk&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
-
 ---
 
 ### 🛠 Tech Stack
